@@ -4,6 +4,14 @@ Premier League data in JSON (JavaScript Object Notation) format.
 
 The file **data.json** contains the Premier League data for the season 2018-19.
 
+## Download the Guide on How to Implement the Data
+
+A guide on how to extract valuable information from data.json through JavaScript.
+
+Download, Read and Comment!
+[Implmentation Guide](https://drive.google.com/file/d/10fWcVIbhnBBoZ4f25QjgqY1PGQ93pe0O/view?usp=sharing)
+
+
 ## Seasons
 
 -   [x] August 2018 - May 2019
@@ -23,6 +31,8 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 -   [x] August - December (_Results Updated_)
 -   [x] January   (_Results Updated_)
 -   [x] Round 25  (_Results Updated_)
+-   [x] Round 26
+-   [x] Round 27
 
 ## Premier League Clubs' Logos
 
