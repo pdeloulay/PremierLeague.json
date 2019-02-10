@@ -31,7 +31,7 @@ Download, Read and Comment!
 -   [x] August - December (_Results Updated_)
 -   [x] January   (_Results Updated_)
 -   [x] Round 25  (_Results Updated_)
--   [x] Round 26  (_Saturday Results Updated_)
+-   [x] Round 26  (_Sunday Results Updated_)
 -   [x] Round 27
 
 ## Premier League Clubs' Logos
