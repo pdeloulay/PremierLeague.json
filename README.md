@@ -28,10 +28,9 @@ Download, Read and Comment!
 
 ## Matchday Fixtures
 
--   [x] August - December (_Results Updated_)
--   [x] January   (_Results Updated_)
+-   [x] August - January (_Results Updated_)
 -   [x] Round 25  (_Results Updated_)
--   [x] Round 26  (_Sunday Results Updated_)
+-   [x] Round 26  (_Results Updated_)
 -   [x] Round 27
 
 ## Premier League Clubs' Logos
