@@ -9,7 +9,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 A guide on how to extract valuable information from data.json through JavaScript.
 
 Download, Read and Comment!
-[Implmentation Guide](https://drive.google.com/file/d/10fWcVIbhnBBoZ4f25QjgqY1PGQ93pe0O/view?usp=sharing)
+[Implementation Guide](https://drive.google.com/file/d/10fWcVIbhnBBoZ4f25QjgqY1PGQ93pe0O/view?usp=sharing)
 
 
 ## Seasons
